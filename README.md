@@ -2,7 +2,7 @@ Estudiante:CRISTHIAN LABRANDERO PEREZ Investigación: Programacion en Paralelo A
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:10/09/2019
+FECHA:12/09/2019
 
 QUE HICE HASTA AHORA?
 
@@ -13,7 +13,10 @@ GOOGLE CLOUD: Plataforma de google para la puesta en Marcha y Prueba de Servidor
 BIGQUERY:Prueba de Consultas.
 APPMAKER: es una aplicacion web en la que podemos crear potentes aplicaciones en la nube y utilizarlas en empresas. .
 APRENDI A USAR GITHUB..
+APRENDI A USAR CORDOBA..
 QUE HARE HOY? 
-hoy aprendimos acerca de la unidad 3 y los problemas de no tener conocimiento sobre la teoria para la ingenieria de software
+hoy aprendimos acerca de como exponer y dar un discurso sin aburrir al publico y captar la atencion del publico.
+aprendimos a oucpar de mejor manerra angular y cordoba.
 
 COMO LO HARE? CON ENTUSIASMO Y GANAS DE APRENDER. Java, Github, netbeans, angular.
+, NODE
