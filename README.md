@@ -2,7 +2,7 @@ Estudiante:CRISTHIAN LABRANDERO PEREZ Investigación: Programacion en Paralelo A
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:12/09/2019
+FECHA:16/09/2019
 
 QUE HICE HASTA AHORA?
 
@@ -14,9 +14,13 @@ BIGQUERY:Prueba de Consultas.
 APPMAKER: es una aplicacion web en la que podemos crear potentes aplicaciones en la nube y utilizarlas en empresas. .
 APRENDI A USAR GITHUB..
 APRENDI A USAR CORDOBA..
-QUE HARE HOY? 
+APRENDI acerca de la motodologia agil SCRUM...
 hoy aprendimos acerca de como exponer y dar un discurso sin aburrir al publico y captar la atencion del publico.
 aprendimos a oucpar de mejor manerra angular y cordoba.
+QUE HARE HOY? 
+hoy aprendimos sobre como manipular la base de datos postgrees y probamos algunos programas en java
+
+
 
 COMO LO HARE? CON ENTUSIASMO Y GANAS DE APRENDER. Java, Github, netbeans, angular.
-, NODE
+, NODE, Php
