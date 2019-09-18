@@ -71,7 +71,7 @@ Estudiante:CRISTHIAN LABRANDERO PEREZ Investigación: Programacion en Paralelo A
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:18/09/2019
+FECHA:16/09/2019
 
 QUE HICE HASTA AHORA?
 
@@ -93,7 +93,7 @@ Estudiante:CRISTHIAN LABRANDERO PEREZ Investigación: Programacion en Paralelo A
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:16/09/2019
+FECHA:18/09/2019
 
 QUE HICE HASTA AHORA?
 
